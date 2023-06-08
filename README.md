@@ -1,7 +1,7 @@
 # Strivers-SDE-Sheet-Challenge
 Strivers SDE Sheet – Challenge Python
 --------------------------------------------------------------------------------------------------
-***Day1***
+## Day 1
 
 **Problem 1: Set Zero Matrix**:
 
